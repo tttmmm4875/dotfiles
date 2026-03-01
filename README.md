@@ -15,3 +15,7 @@
   - workbench.editor.pinnedTabsOnSeparateRow
 - 複数ワークスペースを1つのウィンドウで管理する
   - Window: Native Tabs
+
+## サードパーティアプリ
+- mac osでwindowsのalt + tabを再現する
+  - https://note.com/murasaki5/n/nc860be25a0f7　
